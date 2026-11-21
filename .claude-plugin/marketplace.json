@@ -1,0 +1,17 @@
+{
+  "name": "expert-roundtable",
+  "owner": {
+    "name": "John Sun"
+  },
+  "metadata": {
+    "description": "Skills that turn proven ways of working with AI into one-word routines."
+  },
+  "plugins": [
+    {
+      "name": "expert-roundtable",
+      "source": "./",
+      "description": "Convene the world's best practitioners for any task: cited dossiers on how they think and their iron rules, independent takes, cross-examination, one synthesized deliverable.",
+      "version": "0.1.0"
+    }
+  ]
+}

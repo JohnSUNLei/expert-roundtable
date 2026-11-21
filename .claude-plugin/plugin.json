@@ -1,0 +1,10 @@
+{
+  "name": "expert-roundtable",
+  "version": "0.1.0",
+  "description": "Convene the world's best practitioners for any task: cited dossiers on how they think and their iron rules, independent takes, cross-examination, one synthesized deliverable. Fuse them into your own agent, or invite a historical guest.",
+  "author": {
+    "name": "John Sun"
+  },
+  "license": "MIT",
+  "keywords": ["experts", "roundtable", "council", "personas", "decision-making", "software-design", "skills"]
+}
